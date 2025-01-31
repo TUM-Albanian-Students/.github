@@ -1,6 +1,6 @@
 # 🇽🇰 Albanian Student Society at TUM - Open Source 🇦🇱
 
-🚀 **Building solutions for Albania & Kosovo**  
+🚀 **Student initiative for building solutions for Albania & Kosovo**  
 
 ## 📌 Focus Areas  
 - **Education** – Digital learning tools & resources  
