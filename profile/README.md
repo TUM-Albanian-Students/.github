@@ -1,4 +1,4 @@
-# 🇽🇰 Albanian Student Society at TUM - Open Source 🇦🇱
+# 🇽🇰 Albanian Student Society at TUM - Tech for Good 🇦🇱
 
 🚀 **Student initiative for building solutions for Albania & Kosovo**  
 
